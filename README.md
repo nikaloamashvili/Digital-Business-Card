@@ -2,3 +2,4 @@
 
 - My digital business card that was written in React.js.
 - A [link](http://nikascard.netlify.app "link") to my card.
+- Scrimba React course project.
